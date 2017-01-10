@@ -1,5 +1,5 @@
 let technologies = [
-		{
+		/*{
 			name: 'React',
 			courses: [
 				{
@@ -19,7 +19,7 @@ let technologies = [
 				 	url: 'https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx'
 				 },
 				 {
-				 	name: 'React: Flux Architecture (ES6)',
+				 	name: 'React Flux Architecture (ES6)',
 				 	url: 'https://egghead.io/courses/react-flux-architecture-es6'
 				 },
 				 {
@@ -43,7 +43,7 @@ let technologies = [
 				 	url: 'https://egghead.io/courses/building-react-applications-with-idiomatic-redux'
 				 }
 			]
-		},
+		},*/
 		 {
 		 	name: 'Angular 2',
 		 	courses: [
@@ -76,7 +76,7 @@ let technologies = [
 		 			url: 'https://egghead.io/courses/angular-2-dependency-injection-di-explained'
 		 		},
 		 		{
-		 			name: 'Build Redux Style Applications with Angular2, RxJS, and ngrx/store',
+		 			name: 'Build Redux Style Applications with Angular2 RxJS and ngrx store',
 		 			url: 'https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs'
 		 		},
 		 		{
@@ -158,11 +158,11 @@ let technologies = [
 		 			url: 'https://egghead.io/courses/rxjs-subjects-and-multicasting-operators'
 		 		},
 		 		{
-		 			name: 'RxJS Beyond the Basics: Operators in Depth',
+		 			name: 'RxJS Beyond the Basics Operators in Depth',
 		 			url: 'https://egghead.io/courses/rxjs-beyond-the-basics-operators-in-depth'
 		 		},
 		 		{
-		 			name: 'RxJS Beyond the Basics: Creating Observables from scratch',
+		 			name: 'RxJS Beyond the Basics Creating Observables from scratch',
 		 			url: 'https://egghead.io/courses/rxjs-beyond-the-basics-creating-observables-from-scratch'
 		 		},
 		 		{
@@ -235,7 +235,7 @@ let technologies = [
 	 			url: 'https://egghead.io/courses/regex-in-javascript'
 	 		},
 	 		{
-	 			name: 'Asynchronous Programming: The End of The Loop',
+	 			name: 'Asynchronous Programming0 The End of The Loop',
 	 			url: 'https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop'
 	 		},
 	 		{
@@ -264,7 +264,7 @@ let technologies = [
 	 			url:  'https://egghead.io/courses/introduction-to-node-servers-with-hapi-js'
 	 		},
 	 		{
-	 			name: 'Introduction to Node: The Fundamentals',
+	 			name: 'Introduction to Node The Fundamentals',
 	 			url: 'https://egghead.io/courses/introduction-to-node-the-fundamentals'
 	 		},
 	 		{
